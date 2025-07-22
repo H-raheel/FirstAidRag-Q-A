@@ -42,7 +42,3 @@ Metrics:
 - **Faithfulness**: Is the generated answer consistent with the golden reference?
 - **Relevance**: Does it actually address the original question?
 
-
-Metrics:
-- **Faithfulness**: Is the generated answer consistent with the golden reference?
-- **Relevance**: Does it actually answer the question?
